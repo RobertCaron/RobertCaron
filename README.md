@@ -5,7 +5,7 @@ Glad to see you here!
 
 I am a passionate Computer Science student with a love for problem-solving, coding, and making a difference through technology.
 
-As a software developer, I focus on creating efficient, user-friendly applications. Whether it's building full-stack projects or working with databases, I believe in using technology to solve real-world problems. I'm particularly skilled at **debugging**, using tools like **VS Code** and **Eclipse** to track down and fix issues efficiently.
+As a software developer, I focus on creating efficient, user-friendly applications. Whether it's building full-stack projects or working with databases, I believe in using technology to solve real-world problems. I'm particularly skilled at **debugging**, **datbases**, **probelm solving** using tools like **VS Code** and **MYSQL** 
 
 ---
 
@@ -15,7 +15,7 @@ As a software developer, I focus on creating efficient, user-friendly applicatio
 - 👨‍💻 Proficient in **Java**, **PHP**, **HTML**, and **SQL**  
 - 🌱 Learning **React** and **Cybersecurity**  
 - 🔧 **Good at debugging** and optimizing code across different platforms  
-- 📬 Reach me at: [Email](mailto:recaron@mtu.edu) | [LinkedIn](https://www.linkedin.com/in/robert-caron-56717a20a)
+- 📬 Reach me at: [Email](mailto:bobbycaron409@gmail.com) | [LinkedIn](www.linkedin.com/in/robert-caron-56717a20a)
 
 ---
 
@@ -43,11 +43,25 @@ As a software developer, I focus on creating efficient, user-friendly applicatio
 
 ---
 
-## 💪 Where I Write and Code:
+## 🏄 Leadership & Community Involvement:
 
-Here's where I build projects and solve problems that inspire me. Let's connect and collaborate on new ideas!
+I am the **President and Founder** of the **Lake Superior Surf Club** at Michigan Technological University.  
+As the club's leader, I organized events, secured funding, and set up all the necessary documentation like risk management plans and waivers to create a vibrant and active community around surfing on Lake Superior.
 
 ---
 
+## 🌊 My Hobbies:
+
+When I'm not coding, you can find me outdoors. Here are my favorite things I do while not on my computer!
+- **Surfing on Lake Superior** 🌊  
+- **Backpacking** 🎒  
+- **Camping** 🏕️  
+- **Hiking** 🥾  
+- **Skiing** 🎿  
+
+
+<!--
+
 ## 📈 GitHub Stats:
-![Robert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robert-caron&show_icons=true&theme=radical)
+![Robert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertcaron&show_icons=true&theme=radical)
+-->
