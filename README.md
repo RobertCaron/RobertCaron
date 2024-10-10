@@ -15,7 +15,7 @@ As a software developer, I focus on creating efficient, user-friendly applicatio
 - 👨‍💻 Proficient in **Java**, **PHP**, **HTML**, and **SQL**  
 - 🌱 Learning **React** and **Cybersecurity**  
 - 🔧 **Good at debugging** and optimizing code across different platforms  
-- 📬 Reach me at: [Email](mailto:bobbycaron409@gmail.com) | [LinkedIn](www.linkedin.com/in/robert-caron-56717a20a)
+- 📬 Reach me at: [Email me](mailto:bobbycaron409@gmail.com) | [LinkedIn](https://www.linkedin.com/in/robert-caron-56717a20a)
 
 ---
 
